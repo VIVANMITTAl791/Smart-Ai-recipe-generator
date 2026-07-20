@@ -4,7 +4,7 @@ VM AI Kitchen is a smart, interactive culinary assistant built with Python and S
 
 Designed with a premium, playful Kawaii theme, the app provides a highly engaging and modern user experience for food enthusiasts.
 
-🔗 **Live Application:** [Click Here to View Live App](https://YOUR-LIVE-APP-URL-HERE.streamlit.app) *(Replace this with your actual deployment link)*
+🔗 **Live Application:** [Click Here to View Live App](https://smart-ai-recipe-generator-nrw6.onrender.com) *(Replace this with your actual deployment link)*
 
 ---
 
