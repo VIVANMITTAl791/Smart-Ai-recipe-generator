@@ -10,9 +10,7 @@ from dotenv import load_dotenv
 
 # .env file se API keys load karne ke liye
 load_dotenv()
-
-# System Engine Constants
-TEXT_MODEL = "llama-3.3-70b-versatile"
+TEXT_MODEL = "llama-3.1-8b-instant"
 
 # Groq API Client setup
 api_key = os.environ.get("GROQ_API_KEY") or os.environ.get("XAI_API_KEY")
